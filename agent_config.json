@@ -1,0 +1,9 @@
+{
+  "agent_name": "RefactorAgent",
+  "rules": [
+    "Improve readability and maintainability",
+    "Follow PEP8 standards",
+    "Remove dead code and unused imports",
+    "Suggest modularization where necessary"
+  ]
+}
